@@ -1,6 +1,6 @@
 
 # Hi, I'm Eunice 👋
-CS senior at Missouri S&T (graduating Dec 2026). I build and red-team LLM agents, and I like making software that is both useful and hard to break.
+
 
 * Languages & Tools
 Python
